@@ -8,11 +8,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Mabel Logo" />
       </header>
-      <div className="circle-container" id="circleContainer">
-        <div className="percentage-circle" id="percentageCircle">
-          <div className="percentage-text" id="percentageText">0%</div>
-        </div>
-      </div>
       <div className="text-editor" id="textInputContainer" contentEditable="true">
       </div>
       <table className="word-storage-table" id="wordStorageTable">

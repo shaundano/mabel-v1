@@ -38,32 +38,27 @@
   background-color: #f4f4f4;
 }
 
-.circle-container {
-  text-align: center;
-  margin: 20px auto;
-}
-
-.percentage-circle {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  background-color: #e0e0e0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto;
-}
-
-.percentage-text {
-  font-size: 24px;
-}
-
 .typed {
   background-color: lightgreen;
   color: black;
 }
 
 .pasted {
-  background-color: orange;
+  background-color: lightsalmon;
   color: black;
+}
+
+.text-editor {
+  width: 60%;
+  height: 100px;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font-size: 16px;
+  overflow-y: auto;  /* Add scroll bar */
+  white-space: pre-wrap;  /* Preserve spaces and line breaks */
+  word-wrap: break-word;  /* Wrap long words */
 }
