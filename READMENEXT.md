@@ -17,7 +17,7 @@ Some ideas I have:
 - using blockchain to authenticate a document's certificate that it is human-generated. National University of Singapore as a cool example of this, but for their transcripts.
 - building upon some research that measures the biometrics of different students as they write their essays and assignments. https://arxiv.org/abs/2101.05570
 
-Some perspective that I think is important: although we've heard of students in university and high school getting accused of AI plaigiarism, computer literacy starts young. I made my first PowerPoint for a class at the age of 8. It probably has started earlier since. We are dealing with AI's relationship to learning at all levels of K-12 education and beyond.
+Some perspective that I think is important: although we've heard of students in university and high school getting accused of AI plagiarism, computer literacy starts young. I made my first PowerPoint for a class at the age of 8. It probably has started earlier since. We are dealing with AI's relationship to learning at all levels of K-12 education and beyond.
 
 Overall, I'm quite excited by the possibilities that Mabel could bring to the classroom. As someone who entered the workforce as ChatGPT was released, I've watched it evolve in the knowledge economy and have the perspective that we shouldn't be outright discouraging students from getting help from AI in their assignments. We need to better understand how AI impacts learning and be as transparent and definitive as possible when establishing guardrails for schoolwork.
 
